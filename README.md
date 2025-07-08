@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbm7)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @devbm7
 - 👀 I’m interested in CP, Game Development, Web Devlopment
 - 🌱 I’m currently studying -> B.Tech CSE from Nirma University

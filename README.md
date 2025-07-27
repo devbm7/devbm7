@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devbm7
-- 👀 I’m interested in CP, Game Development, Web Devlopment
-- 🌱 I’m currently studying -> B.Tech CSE from Nirma University
-- //💞️ I’m looking to collaborate on 
+- Just a Dev who loves being a dev.
+- 👀 I’m interested in CP, Game Development, Web Devlopment, AI/ML Development
 - 📫 How to reach me :-
 - find me on LinkedIn : https://www.linkedin.com/in/dev-makwana-1a2066227/
 
